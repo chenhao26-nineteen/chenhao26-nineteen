@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chenhao26-nineteen
 - 👀 I’m interested in nacos
 - 🌱 I’m currently learning java/rust/golang
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cloud native
 - 📫 How to reach me hashmap2018@163.com
 
 <!---
