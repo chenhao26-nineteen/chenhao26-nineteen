@@ -2,7 +2,7 @@
 - 👀 I’m interested in nacos
 - 🌱 I’m currently learning java/rust/golang
 - 💞️ I’m looking to collaborate on cloud native
-- 📫 How to reach me hashmap2018@163.com
+- 📫 How to reach me ：hashmap2018@163.com
 
 <!---
 chenhao26-nineteen/chenhao26-nineteen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
